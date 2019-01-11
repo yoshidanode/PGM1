@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" charset="Shift_JIS">
+<title>検索結果を画面上で絞り込むデモ</title>
+</head>
+<body>
+<h1>検索結果を画面上で絞り込むデモ</h1>
+
+<p>何をやっているかは、「ソースの表示」で見てください。</p>
+
+<p>表示したテキスト（li要素の中のspan要素のテキスト）から、指定したキーワードにマッチするツイートだけを表示します。</p>
+
+<hr>
+<p>キーワード <input id="f" type="text"> （例：「今日」、「日曜日」、「20%」）</p>
+<hr>
+
+</body>
+</html>
